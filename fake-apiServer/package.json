@@ -64,7 +64,7 @@
     "pg-format": "^1.0.4",
     "potato": "167.0.0-release.s167.1",
     "prosemirror-model": "^1.18.1",
-    "ramda": "^0.27.1",
+    "ramda": "^0.29.0",
     "shiro-trie": "^0.4.7",
     "swagger-tools": "^0.10.3",
     "tmp-promise": "^1.0.5",
