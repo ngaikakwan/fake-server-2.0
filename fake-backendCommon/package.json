@@ -87,7 +87,7 @@
     "xmlbuilder": "^10.1.1",
     "yamanote": "167.0.0-release.s167.1",
     "yauzl": "^2.10.0",
-    "yup": "0.32.8"
+    "yup": "0.32.11"
   },
   "devDependencies": {
     "@babel/cli": "^7.0.0",
