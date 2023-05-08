@@ -76,7 +76,7 @@
     "potato": "167.0.0-release.s167.1",
     "ramda": "^0.26.1",
     "range-parser": "^1.2.0",
-    "samlify": "2.8.5",
+    "samlify": "2.8.10",
     "shiro-trie": "^0.4.10",
     "tmp-promise": "^3.0.3",
     "typescript": "^4.3.5",
